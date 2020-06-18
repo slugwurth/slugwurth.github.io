@@ -12,7 +12,8 @@ body {
     text-rendering: optimizeLegibility;
 	line-height:1.5;
 	font-size: 1rem;
-	color: rgb(22, 23, 26);
+	color: gray;
+	background-color: black;
 }
 
 nav ul {
@@ -20,7 +21,7 @@ nav ul {
 }
 
 a {
-    color: #000;
+    color: red;
     text-decoration-skip-ink: auto;
     text-decoration: underline;
 }

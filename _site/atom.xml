@@ -4,7 +4,7 @@
  <title>slug</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-18T12:46:57-04:00</updated>
+ <updated>2020-06-18T13:52:48-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>slugwurth</name>
@@ -19,21 +19,65 @@
    <id>http://localhost:4000/2020/06/18/OpenAI-as-a-narrative-content-generator</id>
    <content type="html">&lt;p&gt;I’ve been using something called GPT-2 (General Predictive Text 2) to generate text entries that I share with my party. GPT-2, developed and published by OpenAI, is a natural language model that “predicts” the words and sentences that would follow a user prompt. I’ve trained a simplified version of the model on sci-fi and horror novels found at the Project Gutenberg website.&lt;/p&gt;
 
-&lt;p&gt;I developed this material to support a campaign based in APOF where I’m using a modified Prospero’s Dream and the ACMD outbreak. I pass the word &lt;strong&gt;Caliban&lt;/strong&gt; to my GPT-2 model as a prompt to generate a block of text. By controlling a &lt;em&gt;temperature parameter&lt;/em&gt; in the language model, I can guide the level of percieved insanity of the text’s author&lt;/p&gt;
+&lt;p&gt;I developed this material to support a campaign based in APOF where I’m using a modified Prospero’s Dream and the ACMD outbreak. I pass the word &lt;strong&gt;Caliban&lt;/strong&gt; to my GPT-2 model as a prompt to generate a block of text. By controlling a &lt;em&gt;temperature parameter&lt;/em&gt; in the language model, I can guide the level of percieved insanity of the text’s author while keeping it contextually bound.&lt;/p&gt;
 
+&lt;p&gt;Here are some examples:&lt;/p&gt;
+
+&lt;h3 id=&quot;tepid&quot;&gt;Tepid&lt;/h3&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://txt.fyi/+/662ca8a9/&quot;&gt;Tepid&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;Caliban’s body would have lain in the open for a good long while.&lt;/p&gt;
+
+  &lt;p&gt;“What the hell was that?” Bates breathed. “We’re losing?”&lt;/p&gt;
+
+  &lt;p&gt;“The spike was real, and it was real fast. It moved so fast—it was like it was stampeding, or sprinting, or—”&lt;/p&gt;
+
+  &lt;p&gt;The drum fell instantly silent. Sascha killed the channel and turned to face us, grinning so widely I thought the top of her head would fall off.&lt;/p&gt;
+
+  &lt;p&gt;“Sascha,” Bates breathed. “Are you crazy?”&lt;/p&gt;
+
+  &lt;p&gt;“So what? I’m not breaking any laws.” Her own throat was parched and swollen, the color of a dried blood-curd. “It’s just—odd, that it took them so long to track us down.”&lt;/p&gt;
+
+  &lt;p&gt;“They waited til we were lost in the teeth of the sea.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://txt.fyi/+/5e4fcd3e/&quot;&gt;Weird&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h3 id=&quot;weird&quot;&gt;Weird&lt;/h3&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://txt.fyi/+/fdfd31b7/&quot;&gt;Incoherent&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Caliban’s eyes are fixed on the nearest wall: a black disk centered in Theseus’ forward view. The tip of one arm pierces the hull’s stern plating.&lt;/p&gt;
+
+  &lt;p&gt;Bates’s lips move in a silent knot. “Something’s got to give.”&lt;/p&gt;
+
+  &lt;p&gt;A moment. Subtitles only gave me angles and small-scale details. “It’s—”&lt;/p&gt;
+
+  &lt;p&gt;“Watch.” At my command, Szpindel and the gang rotated in place of themselves. They saw the ball of scaly ectoplasm sail obliquely in the wake of the Icarus plunge. Szpindel’s body tumbled slowly in the crypt, its limbs snapping in half upon contact.&lt;/p&gt;
+
+  &lt;p&gt;I saw it with my own eyes. An insect larva, rapidly picking up speed, sliding into hibernation. A stunted outgrowth sprouting from the hull’s forward wall, crawling away from the bulge. A stunted outgrowth sprouting from the wall behind, reaching out with piercing eyes from the sealed crypt.&lt;/p&gt;
+
+  &lt;p&gt;A stuttering click. Bates’ tiramisu-powered laptop chimed. “The probe’s—invalidating.”&lt;/p&gt;
+
+  &lt;p&gt;A moment. James’ topology shifted and shuffled in the drum, the gang unplugging themselves from their own makeshift coffins.&lt;/p&gt;
+
+  &lt;p&gt;A stuttering click. Bones cracking in my hand.&lt;/p&gt;
+
+  &lt;p&gt;“Bates?” Szpindel said. “Is that you?”&lt;/p&gt;
+
+  &lt;p&gt;“Help&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;while keeping it contextually bound. I have a set of pregens sampled from this spectrum of insanity that I share with players as they examine terminal logs, journals in crew quarters, etc. to fit a descent-into-madness narrative component in my campaign.&lt;/p&gt;
+&lt;h3 id=&quot;incoherent&quot;&gt;Incoherent&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Caliban had warped his psych bones ever so slightly, moving clockwise around Beth and—Israel only momentarilyary by arrangement—wander outside retirement but only down; the undersides of its arms floated like umbilical cords several meters shorter than anybody. ConSensus listed the lost torsion at near-zero gee at the ladders, but zero Oasa measured its own branches mating where theirs met. Either its arms could swing straight down or it could do so with patience and subtlety. Absolute zero “If they carry rocks”.&lt;/p&gt;
+
+  &lt;p&gt;Theseus pitched stealthily through the tunnel; whoever added the destination to the cuneiform alphabet took little precious proprietary screen time; Board Chief Tom Gregg scrambled into warp before my eyes in the allotted half-second. Battery vocal pad starting glowing again, Sara in command. SeaSAR starts phasing near-infrared down these blessed voyages Even if distortions—”&lt;/p&gt;
+
+  &lt;p&gt;System went briefly dark. Fragments. Leaks. Etc.—until Contact sprang back online Exhortations intensified. Meteors longer than Jos Schmitt wait til later Still partaken of these pulsed crusty carbs and amino acids In sequence they digest. The closer ones strike me the more seemingly systems I tackle Scourge fills the inoperative os?&lt;/p&gt;
+
+  &lt;p&gt;As unthinkable motivation pieces assemble in Butterfree Julia and the gang devise novel tactical questions Runes crunch unconstrained fears into understandable gibberish Navigation tries desperately can to establish contract John ion Butler provides opinions and observations&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have a set of pregens sampled from this spectrum of insanity that I share with players as they examine terminal logs, journals in crew quarters, etc. to fit a descent-into-madness narrative component in my campaign.&lt;/p&gt;
 
 &lt;p&gt;In a similar vein to GPT-2, OAI’s Jukebox is a generative model that makes music &lt;em&gt;with lyrics.&lt;/em&gt; The songs can be haunting by implication and hilarious by content: ‘Classic Pop, in the style of Frank Sinatra’ better known as &lt;a href=&quot;https://soundcloud.com/openai_audio/jukebox-265820820&quot;&gt;“Hot Tub Time”&lt;/a&gt; is a must-listen.&lt;/p&gt;
 
