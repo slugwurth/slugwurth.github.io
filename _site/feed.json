@@ -1,0 +1,44 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "slug",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "a blog for stories and projects",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    
+    "author":  {
+        "name": "slugwurth",
+        "url": null,
+        "avatar": null
+    },
+    
+"items": [
+    
+        {
+            "id": "http://localhost:4000/2020/06/18/openai-as-a-narrative-content-generator",
+            "title": "GPT-2 as a narrative content generator",
+            "summary": "I'm using \"real AI\" to generate text that supports an insane AI narrative component",
+            "content_text": "I’ve been using something called GPT-2 (General Predictive Text 2) to generate text entries that I share with my party. GPT-2, developed and published by OpenAI, is a natural language model that “predicts” the words and sentences that would follow a user prompt. I’ve trained a simplified version of the model on sci-fi and horror novels found at the Project Gutenberg website.I developed this material to support a campaign based in APOF where I’m using a modified Prospero’s Dream and the ACMD outbreak. I pass the word Caliban to my GPT-2 model as a prompt to generate a block of text. By controlling a temperature parameter in the language model, I can guide the level of percieved insanity of the text’s author  Tepid  Weird  Incoherentwhile keeping it contextually bound. I have a set of pregens sampled from this spectrum of insanity that I share with players as they examine terminal logs, journals in crew quarters, etc. to fit a descent-into-madness narrative component in my campaign.In a similar vein to GPT-2, OAI’s Jukebox is a generative model that makes music with lyrics. The songs can be haunting by implication and hilarious by content: ‘Classic Pop, in the style of Frank Sinatra’ better known as “Hot Tub Time” is a must-listen.I’ve included a link below to one of the guides that helped me get everything set up. The process takes some diligence in file naming and tracking but almost all of the heavy lifting has already been done.  Learn more about: GPT-2, OpenAI  Project Gutenberg is a great source of plaintext training data  OAI Jukebox  Getting started with GPT-2",
+            "content_html": "<p>I’ve been using something called GPT-2 (General Predictive Text 2) to generate text entries that I share with my party. GPT-2, developed and published by OpenAI, is a natural language model that “predicts” the words and sentences that would follow a user prompt. I’ve trained a simplified version of the model on sci-fi and horror novels found at the Project Gutenberg website.</p><p>I developed this material to support a campaign based in APOF where I’m using a modified Prospero’s Dream and the ACMD outbreak. I pass the word <strong>Caliban</strong> to my GPT-2 model as a prompt to generate a block of text. By controlling a <em>temperature parameter</em> in the language model, I can guide the level of percieved insanity of the text’s author</p><blockquote>  <p><a href=\"https://txt.fyi/+/662ca8a9/\">Tepid</a></p></blockquote><blockquote>  <p><a href=\"https://txt.fyi/+/5e4fcd3e/\">Weird</a></p></blockquote><blockquote>  <p><a href=\"https://txt.fyi/+/fdfd31b7/\">Incoherent</a></p></blockquote><p>while keeping it contextually bound. I have a set of pregens sampled from this spectrum of insanity that I share with players as they examine terminal logs, journals in crew quarters, etc. to fit a descent-into-madness narrative component in my campaign.</p><p>In a similar vein to GPT-2, OAI’s Jukebox is a generative model that makes music <em>with lyrics.</em> The songs can be haunting by implication and hilarious by content: ‘Classic Pop, in the style of Frank Sinatra’ better known as <a href=\"https://soundcloud.com/openai_audio/jukebox-265820820\">“Hot Tub Time”</a> is a must-listen.</p><p>I’ve included a link below to one of the guides that helped me get everything set up. The process takes some diligence in file naming and tracking but almost all of the heavy lifting has already been done.</p><blockquote>  <p>Learn more about: <a href=\"https://github.com/openai/gpt-2\">GPT-2</a>, <a href=\"https://openai.com/about/\">OpenAI</a></p></blockquote><blockquote>  <p><a href=\"http://www.gutenberg.org/browse/scores/top\">Project Gutenberg</a> is a great source of plaintext training data</p></blockquote><blockquote>  <p><a href=\"https://soundcloud.com/openai_audio/popular-tracks\">OAI Jukebox</a></p></blockquote><blockquote>  <p><a href=\"https://medium.com/stasinopoulos.dimitrios/a-beginners-guide-to-training-and-generating-text-using-gpt2-c2f2e1fbd10a\">Getting started</a> with GPT-2</p></blockquote>",
+            "url": "http://localhost:4000/2020/06/18/openai-as-a-narrative-content-generator",
+            
+            
+            
+            
+            
+            "date_published": "2020-06-18T00:00:00-04:00",
+            "date_modified": "2020-06-18T00:00:00-04:00",
+            
+                "author":  {
+                "name": "slugwurth",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        }
+    
+    ]
+}
